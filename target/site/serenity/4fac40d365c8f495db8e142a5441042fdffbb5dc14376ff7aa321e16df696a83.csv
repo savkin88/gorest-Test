@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Gorest curd info","create user","SUCCESS","2022-06-05T22:29:26.816+01:00[Europe/London]","0.0","3.66"
+"Gorest curd info","get single user","SUCCESS","2022-06-05T22:29:30.488+01:00[Europe/London]","0.0","0.83"
+"Gorest curd info","update user ","SUCCESS","2022-06-05T22:29:31.317+01:00[Europe/London]","0.0","0.78"
+"Gorest curd info","delete single user","SUCCESS","2022-06-05T22:29:32.098+01:00[Europe/London]","0.0","1.52"
